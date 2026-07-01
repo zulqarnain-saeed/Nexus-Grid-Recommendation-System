@@ -1,0 +1,2 @@
+This file will be overwritten by the ArchiveSystem compression option.
+Run option 11 from the main menu to generate compressed log content.

@@ -1,0 +1,2 @@
+This file will be overwritten by the ArchiveSystem decompression option.
+Run option 12 from the main menu after compression.
