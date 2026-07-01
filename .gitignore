@@ -1,0 +1,62 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Static libraries
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.idb
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.vcxproj.user
+*.VC.db
+*.opendb
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build folders
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
